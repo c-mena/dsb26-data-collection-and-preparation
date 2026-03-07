@@ -2,14 +2,14 @@
 
 Este repositorio alberga el proyecto del **Módulo 3: Obtención y Preparación de Datos**, perteneciente al **"Bootcamp Fundamentos de Ciencias de Datos 2026"** de **Talento Digital para Chile - SENCE**.
 
-El objetivo principal es implementar un flujo de trabajo para preparar datos de un ecommerce minorista ficticio. Para ello, simulamos desde cero la creación de datos de clientes, productos y transacciones; además, extraemos datos de la web para complementar el dataset y finalmente aplicamos técnicas de limpieza, validación de outliers y enriquecimiento de las tablas originales, todo apoyado en las bibliotecas analíticas NumPy y Pandas del ecosistema de Python.
+El objetivo principal es implementar un flujo de trabajo, preestablecido por la pauta del enunciado del proyecto, para preparar datos de un ecommerce minorista ficticio. Para ello, simulamos desde cero la creación de datos de clientes, productos y transacciones; además, extraemos datos de la web para complementar el dataset y finalmente aplicamos técnicas de limpieza, validación de outliers y enriquecimiento de las tablas originales, todo apoyado en las bibliotecas analíticas NumPy y Pandas del ecosistema de Python.
 
-## Estructura de Proyecto
+## Estructura del Proyecto
 
-- `main.ipynb`: Es el *Jupyter Notebook* central y único archivo ejecutable requerido del proyecto finalizado. Expone detalladamente, sección por sección (6 en total), el fundamento de cada análisis, simulando iteración a iteración el ciclo de vida de los datos, explicados interactivamente mediante la combinación de celdas Markdown y código Python.
-- `tools.py`: Módulo auxiliar de utilidades en Python que agrupa todas las funciones hechas a medida que apoyan y extienden las reglas de limpieza y agrupación, reduciendo la densidad visual del Notebook principal.
-- `/data`: Subdirectorio para contener los archivos crudos y transformados exportados desde las secciones productivas (Soporta archivos temporales iterativos en formato *.csv*, *.npz*, *.xlsx* y *.parquet*).
-- `SUMMARY.md`: Un documento funcional y condensado que evalúa las técnicas ejecutadas, analiza los fallos del procedimiento y resume conclusiones importantes en las tomas de decisiones.
+- [`main.ipynb`](main.ipynb): Es el *Jupyter Notebook* central y único archivo ejecutable requerido del proyecto finalizado. Expone detalladamente, sección por sección (6 en total), el fundamento de cada análisis, simulando iteración a iteración el ciclo de vida de los datos, explicados interactivamente mediante la combinación de celdas Markdown y código Python.
+- [`tools.py`](tools.py): Módulo auxiliar de utilidades en Python que agrupa todas las funciones hechas a medida que apoyan y extienden las reglas de limpieza y agrupación, reduciendo la densidad visual del Notebook principal.
+- [`/data`](data): Subdirectorio para contener los archivos crudos y transformados exportados desde las secciones productivas (Soporta archivos temporales iterativos en formato *.csv*, *.npz*, *.xlsx* y *.parquet*).
+- [`SUMMARY.md`](SUMMARY.md): Un documento funcional y condensado que evalúa las técnicas ejecutadas, analiza los fallos del procedimiento y resume conclusiones importantes en las tomas de decisiones.
 
 ## Requisitos y Tecnologías
 
@@ -66,4 +66,3 @@ La alternativa recomendada para inicializar y observar el proyecto es emplear **
 *(Otra alternativa válida, desde la consola y con tu entorno activo, es ejecutar el comando `jupyter notebook` para levantar el servidor y entrar a `main.ipynb` directamente mediante tu navegador web).*
 
 ---
-*Módulo 3 Bootcamp DataSci, Chile. 2026* 🇨🇱
