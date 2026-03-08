@@ -6,7 +6,7 @@ El objetivo principal es implementar un flujo de trabajo, preestablecido por la 
 
 ## Estructura del Proyecto
 
-- [`main.ipynb`](main.ipynb): Es el *Jupyter Notebook* central y único archivo ejecutable requerido del proyecto finalizado. Expone detalladamente, sección por sección (6 en total), el fundamento de cada análisis, simulando iteración a iteración el ciclo de vida de los datos, explicados interactivamente mediante la combinación de celdas Markdown y código Python.
+- [`main.ipynb`](main.ipynb) ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-data-collection-and-preparation/blob/main/main.ipynb)): Es el *Jupyter Notebook* central y único archivo ejecutable requerido del proyecto finalizado. Expone detalladamente, sección por sección (6 en total), el fundamento de cada análisis, simulando iteración a iteración el ciclo de vida de los datos, explicados interactivamente mediante la combinación de celdas Markdown y código Python.
 - [`tools.py`](tools.py): Módulo auxiliar de utilidades en Python que agrupa todas las funciones hechas a medida que apoyan y extienden las reglas de limpieza y agrupación, reduciendo la densidad visual del Notebook principal.
 - [`/data`](data): Subdirectorio para contener los archivos crudos y transformados exportados desde las secciones productivas (Soporta archivos temporales iterativos en formato *.csv*, *.npz*, *.xlsx* y *.parquet*).
 - [`SUMMARY.md`](SUMMARY.md): Un documento funcional y condensado que evalúa las técnicas ejecutadas, analiza los fallos del procedimiento y resume conclusiones importantes en las tomas de decisiones.
