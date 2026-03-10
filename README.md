@@ -37,31 +37,37 @@ cd proyecto-dsb26
 
 1. **Crear e inicializar un entorno virtual**
 
-Esto ayuda aislar y no contaminar tu versión global de Python y sus dependencias.
+Para asegurar la máxima reproducibilidad y eficiencia en la gestión de entornos, se recomienda usar [uv](https://docs.astral.sh/uv/). Esto ayuda aislar y no contaminar tu versión global de Python de forma extremadamente veloz.
+
+Crea el entorno ejecutando:
+
+```bash
+uv venv
+```
+
+Luego, actívalo:
 
 ```bash
 # Windows PowerShell / CMD:
-python -m venv .venv
 .venv\Scripts\activate
 
 # Distribuciones Mac/Linux:
-python3 -m venv .venv
 source .venv/bin/activate
 ```
 
 1. **Cargar dependencias necesarias**
 
-Recomendamos instalar las bibliotecas requeridas utilizando el archivo `requirements.txt` incluido en el proyecto, lo que garantiza operar con las versiones exactas y probadas:
+Recomendamos instalar y sincronizar las bibliotecas requeridas utilizando el archivo `pyproject.toml` incluido en el proyecto, garantizando operar con las dependencias exactas y probadas:
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
-*(Como alternativa, puedes instalar los paquetes principales de forma manual:* `pip install numpy pandas requests lxml openpyxl pyarrow fastparquet matplotlib jinja2 ipykernel`*)*
+*(Como alternativa, puedes instalar los paquetes principales de forma manual con uv:* `uv pip install numpy pandas requests lxml openpyxl pyarrow fastparquet matplotlib jinja2 ipykernel`*)*
 
 1. **Ejecutar el Proyecto**
 
-La alternativa recomendada para inicializar y observar el proyecto es emplear **Visual Studio Code (VS Code)** con su extensión de **Jupyter** instalada. Sólo debes abrir la carpeta del repositorio en VS Code, seleccionar tu entorno virtual `.venv` como tu Kernel de ejecución, y abrir el archivo `main.ipynb` para visualizar el código y sus correspondientes anotaciones en simultáneo.
+La alternativa recomendada para inicializar y observar el proyecto es emplear **Visual Studio Code (VS Code)** con su extensión de **Jupyter** instalada. Sólo debes abrir la carpeta del repositorio en VS Code, seleccionar tu entorno virtual `.venv` como tu Kernel de ejecución, y abrir el archivo `main.ipynb` para ejecutar el código y visualizar sus correspondientes anotaciones en simultáneo.
 
 *(Otra alternativa válida, desde la consola y con tu entorno activo, es ejecutar el comando `jupyter notebook` para levantar el servidor y entrar a `main.ipynb` directamente mediante tu navegador web).*
 
