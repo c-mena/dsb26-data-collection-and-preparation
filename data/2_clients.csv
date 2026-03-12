@@ -1,601 +1,601 @@
 id,name,city,birthdate,purchases,total_amount
-61,Joaquín Vargas,Chillán ,1984-11-03,1,223434
-497,Daniela Díaz,Santiago,1999-09-15,2,2373351
-341,Martina Pérez,Valparaíso,2010-03-11,0,0
-588,Valentina Muñoz,Santiago,1988-01-12,0,0
-574,Daniela Rojas,Antofagasta,1925-10-16,4,1958708
-544,Gabriel Contreras,Rancagua,1991-01-01,1,115636
-101,María Silva,Concepción,2004-09-25,1,95174
-192,Ignacio Soto,Antofagasta,2005-02-08,0,0
-412,Sofía Vargas,Antofagasta,1980-12-04,0,0
-378,Antonia Riquelme,Santiago,1994-01-16,3,140138
-162,Fernanda Aravena,Santiago,1974-12-17,4,1018427
-564,Antonio Rios,Iquique,1974-11-09,1,92217
-467,Isidora González,Santiago,2006-08-21,2,135938
-392,Daniela Rojas,Temuco,1997-02-20,0,0
-336,Lucas Ramírez,Santiago,2010-11-03,0,0
-461,María Mendoza,Concepción,1994-11-01,2,37639
-2,Martina Pérez,Antofagasta,2001-06-12,1,108820
-383,Pedro López,Santiago,1990-07-07,0,0
-589,Gabriel Soto,Concepción,1997-01-29,0,0
-149,Ana Fuentes,Valparaíso,2000-12-03,1,31508
-180,Sofía Flores,La Serena,2003-10-30,0,0
-145,Isidora García,Concepción,2002-08-10,2,2198277
-592,Isidora Soto,Iquique,1979-05-17,0,0
-55,Sofía Rios,Santiago,1986-05-15,0,0
-542,Tomás González,Chillán ,1968-11-29,0,0
-142,Fernanda Fuentes,Iquique,1984-12-25,0,0
-406,Vicente Riquelme,Santiago,1998-10-02,2,417691
-42,Ignacio González,Santiago,1999-09-27,1,658991
-7,Pedro Contreras,Chillán ,1974-10-27,5,223762
-33,Ignacio Rios,Santiago,2010-09-13,1,31508
-91,Valentina Riquelme,Concepción,1992-04-16,0,0
-103,Mateo Muñoz,Santiago,1995-07-03,0,0
-296,Sofía Rojas,Concepción,2010-12-31,1,35497
-119,María Fuentes,Valparaíso,1980-08-18,1,37341
-118,Valentina Fuentes,Santiago,1992-09-13,1,31508
-585,Joaquín Fuentes,Valparaíso,1995-06-23,1,32643
-345,Tomás Rios,Chillán ,2003-08-31,5,734810
-49,María Hernández,Santiago,1993-10-16,2,41062
-94,Valentina Rios,Santiago,1994-10-04,2,592180
-109,Vicente Pérez,Santiago,1981-10-14,1,719442
-308,Valentina Riquelme,Santiago,1997-08-19,0,0
-20,Catalina Martínez,Santiago,1964-03-07,3,844089
-346,Fernanda González,Puerto Montt,2000-11-13,1,82199
-235,Isidora Fuentes,Antofagasta,1991-05-09,2,59186
-537,Antonia Fuentes,Valparaíso,2000-01-12,1,6804
-239,Camila Aravena,Concepción,1982-07-31,1,47045
+61,Joaquín Vargas,Chillán ,1984-08-01,1,223434
+497,Daniela Díaz,Santiago,1999-10-17,2,2373351
+341,Martina Pérez,Valparaíso,2010-10-20,0,0
+588,Valentina Muñoz,Santiago,1988-11-22,0,0
+574,Daniela Rojas,Antofagasta,1925-10-03,4,1958708
+544,Gabriel Contreras,Rancagua,1991-07-06,1,115636
+101,María Silva,Concepción,2004-10-22,1,95174
+192,Ignacio Soto,Antofagasta,2005-10-02,0,0
+412,Sofía Vargas,Antofagasta,1980-08-04,0,0
+378,Antonia Riquelme,Santiago,1994-01-31,3,140138
+162,Fernanda Aravena,Santiago,1974-09-18,4,1018427
+564,Antonio Rios,Iquique,1974-04-24,1,92217
+467,Isidora González,Santiago,2006-08-08,2,135938
+392,Daniela Rojas,Temuco,1997-08-14,0,0
+336,Lucas Ramírez,Santiago,2010-09-27,0,0
+461,María Mendoza,Concepción,1994-05-22,2,37639
+2,Martina Pérez,Antofagasta,2001-01-16,1,108820
+383,Pedro López,Santiago,1990-09-01,0,0
+589,Gabriel Soto,Concepción,1997-05-31,0,0
+149,Ana Fuentes,Valparaíso,2000-01-13,1,31508
+180,Sofía Flores,La Serena,2003-10-23,0,0
+145,Isidora García,Concepción,2002-11-18,2,2198277
+592,Isidora Soto,Iquique,1979-09-05,0,0
+55,Sofía Rios,Santiago,1986-04-26,0,0
+542,Tomás González,Chillán ,1968-12-26,0,0
+142,Fernanda Fuentes,Iquique,1984-01-15,0,0
+406,Vicente Riquelme,Santiago,1998-04-22,2,417691
+42,Ignacio González,Santiago,1999-02-16,1,658991
+7,Pedro Contreras,Chillán ,1974-08-20,5,223762
+33,Ignacio Rios,Santiago,2010-05-25,1,31508
+91,Valentina Riquelme,Concepción,1992-12-14,0,0
+103,Mateo Muñoz,Santiago,1995-07-15,0,0
+296,Sofía Rojas,Concepción,2010-10-29,1,35497
+119,María Fuentes,Valparaíso,1980-08-03,1,37341
+118,Valentina Fuentes,Santiago,1992-09-01,1,31508
+585,Joaquín Fuentes,Valparaíso,1995-07-16,1,32643
+345,Tomás Rios,Chillán ,2003-07-29,5,734810
+49,María Hernández,Santiago,1993-07-03,2,41062
+94,Valentina Rios,Santiago,1994-03-14,2,592180
+109,Vicente Pérez,Santiago,1981-05-05,1,719442
+308,Valentina Riquelme,Santiago,1997-04-25,0,0
+20,Catalina Martínez,Santiago,1964-02-24,3,844089
+346,Fernanda González,Puerto Montt,2000-01-24,1,82199
+235,Isidora Fuentes,Antofagasta,1991-07-26,2,59186
+537,Antonia Fuentes,Valparaíso,2000-11-06,1,6804
+239,Camila Aravena,Concepción,1982-01-08,1,47045
 250,Joaquín Martínez,Puerto Montt,,0,0
-493,Fernanda Aravena,Iquique,1975-10-19,0,0
+493,Fernanda Aravena,Iquique,1975-07-05,0,0
 211,Daniela Ramírez,Rancagua,,1,35769
-245,Gabriel Silva,Antofagasta,1987-08-15,0,0
-532,Camila Rojas,Puerto Montt,2010-03-15,0,0
-381,Antonia Riquelme,Antofagasta,1992-06-01,3,1881888
-69,Joaquín Ramírez,Santiago,1993-07-04,0,0
-29,Antonia Rios,Santiago,1985-12-04,1,3395528
-330,Daniela Vargas,Santiago,2009-06-17,18,3422598
-166,Ignacio Flores,Santiago,1985-07-30,2,443321
-10,Ignacio González,La Serena,1984-10-22,1,7162
-63,Ignacio Díaz,La Serena,1993-03-20,1,54224
-339,Valentina Rios,Santiago,1989-02-12,0,0
-505,Catalina Silva,Santiago,1998-04-05,1,32068
-106,Catalina Contreras,Santiago,1981-09-07,1,552330
-508,Tomás Riquelme,Santiago,2007-12-06,0,0
-281,Antonia Flores,Chillán ,2001-12-01,0,0
-426,Pedro Torres,Santiago,1962-03-25,2,110869
-498,Isidora González,Santiago,1993-09-22,0,0
-538,Antonia Torres,Valparaíso,1993-03-14,1,86525
-14,Martina Silva,Concepción,2003-11-14,1,33905
-518,Lucas Pérez,Santiago,1995-09-22,1,9667
-533,Ana Martínez,Antofagasta,1989-12-21,1,30404
-203,Valentina Ramírez,Concepción,2006-12-03,0,0
-18,Joaquín López,Santiago,2009-10-16,1,581400
-321,Sofía Mendoza,Santiago,1997-03-20,2,234357
-494,Ignacio García,Antofagasta,1973-06-01,3,3467776
-95,Joaquín Torres,Puerto Montt,1995-10-07,2,179786
-122,Mateo Riquelme,Chillán ,1886-02-01,2,113618
-11,Antonia Rojas,Temuco,1977-11-26,2,80611
-90,Isidora Martínez,Concepción,1984-03-12,0,0
-36,Isidora Pérez,Santiago,1997-10-29,2,61497
-255,Daniela Torres,Santiago,1985-12-13,2,2887802
-395,Fernanda Contreras,Puerto Montt,1956-05-11,1,500495
-129,Catalina Fuentes,Concepción,2007-07-31,2,33108
-176,Pedro Mendoza,Santiago,1987-05-26,2,112614
-110,Ignacio Riquelme,Temuco,1971-03-07,1,17665
-417,Antonio Pérez,Valparaíso,1980-11-08,0,0
-501,María López,Santiago,1990-07-20,1,81631
-547,Valentina García,Santiago,1997-10-02,3,2005347
-209,Antonio Hernández,Rancagua,1980-02-25,0,0
-387,Gabriel García,Santiago,2010-01-30,1,31947
-293,Daniela Martínez,Santiago,1970-01-18,0,0
-524,Mateo Rojas,Iquique,2002-08-02,0,0
-96,Camila Torres,Concepción,2010-07-01,0,0
-243,Lucas López,Santiago,1995-03-02,1,2224101
-521,Lucas López,Santiago,1994-04-13,0,0
-80,Ana López,Santiago,1996-04-17,0,0
-62,Martina Rios,Concepción,2010-02-03,0,0
-83,Valentina Torres,Santiago,2001-06-26,0,0
-227,Vicente Torres,Santiago,1983-11-16,2,626250
-208,Valentina Ramírez,Santiago,1988-11-22,1,33020
-485,Ana Contreras,Santiago,1978-10-15,1,7653
-261,Joaquín Fuentes,Valparaíso,1990-04-03,1,31369
-98,María Martínez,Concepción,2021-08-21,0,0
-591,Isidora González,Antofagasta,1996-09-05,0,0
-428,Camila Flores,Antofagasta,1991-06-24,1,21870
-220,Mateo Ramírez,Santiago,1989-09-26,0,0
-126,Sofía García,Santiago,1988-08-13,0,0
-359,Camila Silva,Concepción,1989-06-02,2,83550
-274,Antonia Vargas,Valparaíso,1983-04-10,3,1080902
-137,Ignacio Pérez,Santiago,1983-07-11,0,0
-534,Vicente García,Santiago,2001-06-13,3,44907
-455,Tomás Ramírez,Valparaíso,1978-12-31,1,92217
-362,Camila González,Santiago,1984-12-22,1,22761
-184,Ana Fuentes,Valparaíso,1996-11-25,1,707138
+245,Gabriel Silva,Antofagasta,1987-06-17,0,0
+532,Camila Rojas,Puerto Montt,2010-05-31,0,0
+381,Antonia Riquelme,Antofagasta,1992-10-13,3,1881888
+69,Joaquín Ramírez,Santiago,1993-07-28,0,0
+29,Antonia Rios,Santiago,1985-05-07,1,3395528
+330,Daniela Vargas,Santiago,2009-03-28,18,3422598
+166,Ignacio Flores,Santiago,1985-12-25,2,443321
+10,Ignacio González,La Serena,1984-05-01,1,7162
+63,Ignacio Díaz,La Serena,1993-06-10,1,54224
+339,Valentina Rios,Santiago,1989-12-19,0,0
+505,Catalina Silva,Santiago,1998-05-06,1,32068
+106,Catalina Contreras,Santiago,1981-08-13,1,552330
+508,Tomás Riquelme,Santiago,2007-06-27,0,0
+281,Antonia Flores,Chillán ,2001-04-21,0,0
+426,Pedro Torres,Santiago,1962-08-11,2,110869
+498,Isidora González,Santiago,1993-02-03,0,0
+538,Antonia Torres,Valparaíso,1993-10-10,1,86525
+14,Martina Silva,Concepción,2003-08-11,1,33905
+518,Lucas Pérez,Santiago,1995-10-14,1,9667
+533,Ana Martínez,Antofagasta,1989-08-12,1,30404
+203,Valentina Ramírez,Concepción,2006-11-04,0,0
+18,Joaquín López,Santiago,2009-11-01,1,581400
+321,Sofía Mendoza,Santiago,1997-09-29,2,234357
+494,Ignacio García,Antofagasta,1973-07-09,3,3467776
+95,Joaquín Torres,Puerto Montt,1995-03-21,2,179786
+122,Mateo Riquelme,Chillán ,1886-07-07,2,113618
+11,Antonia Rojas,Temuco,1977-05-22,2,80611
+90,Isidora Martínez,Concepción,1984-06-11,0,0
+36,Isidora Pérez,Santiago,1997-12-14,2,61497
+255,Daniela Torres,Santiago,1985-03-29,2,2887802
+395,Fernanda Contreras,Puerto Montt,1956-01-24,1,500495
+129,Catalina Fuentes,Concepción,2007-08-10,2,33108
+176,Pedro Mendoza,Santiago,1987-05-04,2,112614
+110,Ignacio Riquelme,Temuco,1971-07-17,1,17665
+417,Antonio Pérez,Valparaíso,1980-06-04,0,0
+501,María López,Santiago,1990-08-12,1,81631
+547,Valentina García,Santiago,1997-01-08,3,2005347
+209,Antonio Hernández,Rancagua,1980-03-06,0,0
+387,Gabriel García,Santiago,2010-05-27,1,31947
+293,Daniela Martínez,Santiago,1970-08-14,0,0
+524,Mateo Rojas,Iquique,2002-04-13,0,0
+96,Camila Torres,Concepción,2010-11-10,0,0
+243,Lucas López,Santiago,1995-06-28,1,2224101
+521,Lucas López,Santiago,1994-02-02,0,0
+80,Ana López,Santiago,1996-02-15,0,0
+62,Martina Rios,Concepción,2010-11-05,0,0
+83,Valentina Torres,Santiago,2001-03-30,0,0
+227,Vicente Torres,Santiago,1983-06-20,2,626250
+208,Valentina Ramírez,Santiago,1988-04-22,1,33020
+485,Ana Contreras,Santiago,1978-09-04,1,7653
+261,Joaquín Fuentes,Valparaíso,1990-06-09,1,31369
+98,María Martínez,Concepción,2021-08-15,0,0
+591,Isidora González,Antofagasta,1996-04-03,0,0
+428,Camila Flores,Antofagasta,1991-10-09,1,21870
+220,Mateo Ramírez,Santiago,1989-05-24,0,0
+126,Sofía García,Santiago,1988-07-23,0,0
+359,Camila Silva,Concepción,1989-10-11,2,83550
+274,Antonia Vargas,Valparaíso,1983-04-04,3,1080902
+137,Ignacio Pérez,Santiago,1983-09-14,0,0
+534,Vicente García,Santiago,2001-06-18,3,44907
+455,Tomás Ramírez,Valparaíso,1978-09-30,1,92217
+362,Camila González,Santiago,1984-11-08,1,22761
+184,Ana Fuentes,Valparaíso,1996-03-27,1,707138
 348,Vicente Hernández,Santiago,,2,141754
-161,Antonio González,Santiago,1994-06-15,0,0
-288,Gabriel González,Santiago,1989-10-11,0,0
-92,Martina García,Chillán ,2010-09-27,0,0
-115,Isidora Fuentes,Concepción,2010-01-18,1,76941
-317,María Muñoz,Concepción,1982-09-23,0,0
-562,Vicente Hernández,Santiago,1996-12-18,2,930262
-111,Ana Martínez,Puerto Montt,1975-10-18,0,0
-167,Fernanda Flores,Valparaíso,1974-07-25,1,86720
-189,Ignacio García,Santiago,1988-11-06,1,91685
-491,Sofía Vargas,Santiago,1969-11-26,2,180922
-124,María Díaz,Concepción,2002-05-06,1,1130707
-41,Joaquín González,Santiago,1988-02-09,1,18054
-400,Antonio Flores,Antofagasta,2006-11-27,0,0
-529,Ana Mendoza,Santiago,1988-03-08,0,0
-327,Ignacio Rios,Valparaíso,1977-08-03,0,0
-571,Antonia Rojas,Santiago,1988-11-10,2,263175
-394,Lucas González,Valparaíso,1987-05-05,1,7162
-152,Catalina Martínez,Puerto Montt,2002-11-26,3,501614
-286,María López,Valparaíso,1987-11-19,2,64992
-369,Fernanda García,Santiago,2000-03-27,2,70815
-504,Gabriel Silva,Santiago,1989-03-26,2,2199152
-67,Camila Soto,Santiago,1999-09-13,1,1908479
-372,Fernanda Aravena,Rancagua,1980-11-17,2,23964
+161,Antonio González,Santiago,1994-02-22,0,0
+288,Gabriel González,Santiago,1989-01-15,0,0
+92,Martina García,Chillán ,2010-05-20,0,0
+115,Isidora Fuentes,Concepción,2010-03-10,1,76941
+317,María Muñoz,Concepción,1982-01-20,0,0
+562,Vicente Hernández,Santiago,1996-06-24,2,930262
+111,Ana Martínez,Puerto Montt,1975-10-29,0,0
+167,Fernanda Flores,Valparaíso,1974-03-16,1,86720
+189,Ignacio García,Santiago,1988-12-13,1,91685
+491,Sofía Vargas,Santiago,1969-05-11,2,180922
+124,María Díaz,Concepción,2002-03-04,1,1130707
+41,Joaquín González,Santiago,1988-08-26,1,18054
+400,Antonio Flores,Antofagasta,2006-08-15,0,0
+529,Ana Mendoza,Santiago,1988-12-19,0,0
+327,Ignacio Rios,Valparaíso,1977-02-19,0,0
+571,Antonia Rojas,Santiago,1988-08-06,2,263175
+394,Lucas González,Valparaíso,1987-09-10,1,7162
+152,Catalina Martínez,Puerto Montt,2002-09-23,3,501614
+286,María López,Valparaíso,1987-06-04,2,64992
+369,Fernanda García,Santiago,2000-11-03,2,70815
+504,Gabriel Silva,Santiago,1989-10-29,2,2199152
+67,Camila Soto,Santiago,1999-03-25,1,1908479
+372,Fernanda Aravena,Rancagua,1980-12-13,2,23964
 364,Isidora Fuentes,Santiago,,2,67138
-45,Joaquín Vargas,Antofagasta,1986-06-14,0,0
-376,Catalina González,Santiago,1981-01-24,3,629677
-173,Camila Martínez,La Serena,1975-02-21,0,0
-186,Isidora González,Santiago,1990-08-26,3,2253533
-600,Antonia Martínez,Antofagasta,1999-06-19,1,92217
-39,Mateo González,Chillán ,1998-11-23,1,293678
-299,Martina Díaz,Iquique,1971-07-21,3,659726
-151,Pedro Rojas,Santiago,1986-06-08,0,0
-368,Lucas Aravena,Santiago,2004-12-30,3,1282914
-474,María García,Santiago,2003-11-18,0,0
-570,Camila Ramírez,Rancagua,1976-03-03,0,0
-47,Martina Rojas,Santiago,1994-09-11,0,0
+45,Joaquín Vargas,Antofagasta,1986-09-01,0,0
+376,Catalina González,Santiago,1981-06-09,3,629677
+173,Camila Martínez,La Serena,1975-08-29,0,0
+186,Isidora González,Santiago,1990-11-17,3,2253533
+600,Antonia Martínez,Antofagasta,1999-08-02,1,92217
+39,Mateo González,Chillán ,1998-02-21,1,293678
+299,Martina Díaz,Iquique,1971-06-17,3,659726
+151,Pedro Rojas,Santiago,1986-05-06,0,0
+368,Lucas Aravena,Santiago,2004-12-07,3,1282914
+474,María García,Santiago,2003-07-25,0,0
+570,Camila Ramírez,Rancagua,1976-01-03,0,0
+47,Martina Rojas,Santiago,1994-06-25,0,0
 177,Lucas Rojas,Santiago,,1,109854
-217,María Vargas,Santiago,1973-05-21,2,56131
-230,Tomás Rojas,Concepción,1994-10-25,1,36935
-319,Sofía Díaz,Concepción,1994-07-16,0,0
-366,Gabriel Flores,Santiago,2002-12-03,3,1220758
-171,Ignacio Torres,Concepción,1982-07-23,0,0
-567,Tomás González,La Serena,2008-10-28,3,186890
-174,Isidora López,Santiago,1986-02-19,2,57958
-73,Fernanda Pérez,Puerto Montt,1996-10-01,0,0
-1,Lucas Torres,Santiago,1974-10-07,1,81631
-81,Mateo Flores,Antofagasta,1996-07-05,1,18054
-185,Pedro Silva,Antofagasta,2001-06-02,1,27643
-219,María Aravena,Iquique,1985-06-30,0,0
-199,Ignacio García,Santiago,2004-09-12,1,18054
-365,Ignacio Rios,Antofagasta,1984-07-23,1,626405
-434,Ana Vargas,Santiago,1996-02-02,0,0
-397,Camila Aravena,Santiago,2000-02-16,2,2037895
-279,Pedro González,Concepción,1996-09-05,0,0
-351,Ana Aravena,Chillán ,1996-12-23,1,147143
-332,María Díaz,Santiago,2008-03-24,0,0
-16,Valentina Contreras,Santiago,1986-12-09,0,0
-539,Martina Díaz,Concepción,1994-03-26,1,671781
-503,Gabriel Vargas,Iquique,2000-01-13,1,74176
-458,Catalina Rojas,Temuco,1977-10-15,2,754302
-183,María Aravena,La Serena,1990-07-30,1,27643
-342,Isidora Aravena,Valparaíso,1973-05-29,0,0
-306,Ignacio Contreras,Concepción,2010-09-07,3,367792
-302,Lucas Rojas,Puerto Montt,1976-06-18,0,0
-436,Tomás Hernández,Santiago,1990-02-07,2,126682
-596,Antonia Rojas,Santiago,1972-07-08,0,0
-87,Mateo Mendoza,Santiago,1991-03-31,2,112642
-572,Daniela Aravena,Santiago,1997-11-08,1,60249
-35,Mateo Hernández,Rancagua,1999-05-24,0,0
-26,Camila Rios,Santiago,1987-02-04,0,0
-403,Daniela García,Santiago,2010-10-13,2,109278
-563,Isidora Mendoza,La Serena,1996-05-29,2,30414
-93,Martina Torres,Valparaíso,2004-11-15,1,33020
-325,Fernanda García,Santiago,1964-07-05,1,35689
-253,Fernanda Fuentes,Santiago,1986-02-04,0,0
-242,Lucas Ramírez,Temuco,1995-10-13,1,58605
-102,Isidora Pérez,Santiago,2010-03-16,1,32120
-384,Daniela Torres,La Serena,1993-07-23,1,74176
-433,Tomás Contreras,Antofagasta,2000-07-19,2,527640
-304,Sofía Ramírez,Santiago,1993-07-29,3,3972783
-520,Joaquín Vargas,Santiago,1992-04-02,1,675210
-201,Pedro Rojas,Temuco,2001-05-11,1,22761
-431,Sofía Vargas,Temuco,2008-04-19,1,39988
-226,Sofía Torres,Santiago,1996-03-16,1,109854
-553,Daniela Mendoza,La Serena,1994-12-29,2,87078
-234,Valentina Flores,Santiago,1994-10-28,3,1106284
-344,Ana Fuentes,Valparaíso,1993-06-17,1,21870
-51,Camila Pérez,Chillán ,1988-12-27,2,337605
-195,Daniela Soto,Santiago,2003-01-10,1,27045
-415,Ana Fuentes,Rancagua,1982-02-04,1,65286
+217,María Vargas,Santiago,1973-05-17,2,56131
+230,Tomás Rojas,Concepción,1994-03-05,1,36935
+319,Sofía Díaz,Concepción,1994-03-24,0,0
+366,Gabriel Flores,Santiago,2002-05-15,3,1220758
+171,Ignacio Torres,Concepción,1982-03-20,0,0
+567,Tomás González,La Serena,2008-09-17,3,186890
+174,Isidora López,Santiago,1986-04-04,2,57958
+73,Fernanda Pérez,Puerto Montt,1996-03-10,0,0
+1,Lucas Torres,Santiago,1974-09-06,1,81631
+81,Mateo Flores,Antofagasta,1996-03-02,1,18054
+185,Pedro Silva,Antofagasta,2001-09-08,1,27643
+219,María Aravena,Iquique,1985-06-18,0,0
+199,Ignacio García,Santiago,2004-05-25,1,18054
+365,Ignacio Rios,Antofagasta,1984-02-20,1,626405
+434,Ana Vargas,Santiago,1996-04-15,0,0
+397,Camila Aravena,Santiago,2000-01-01,2,2037895
+279,Pedro González,Concepción,1996-02-16,0,0
+351,Ana Aravena,Chillán ,1996-05-09,1,147143
+332,María Díaz,Santiago,2008-11-19,0,0
+16,Valentina Contreras,Santiago,1986-07-05,0,0
+539,Martina Díaz,Concepción,1994-05-08,1,671781
+503,Gabriel Vargas,Iquique,2000-12-07,1,74176
+458,Catalina Rojas,Temuco,1977-04-14,2,754302
+183,María Aravena,La Serena,1990-04-10,1,27643
+342,Isidora Aravena,Valparaíso,1973-07-07,0,0
+306,Ignacio Contreras,Concepción,2010-10-09,3,367792
+302,Lucas Rojas,Puerto Montt,1976-07-06,0,0
+436,Tomás Hernández,Santiago,1990-12-25,2,126682
+596,Antonia Rojas,Santiago,1972-05-15,0,0
+87,Mateo Mendoza,Santiago,1991-02-19,2,112642
+572,Daniela Aravena,Santiago,1997-01-10,1,60249
+35,Mateo Hernández,Rancagua,1999-01-11,0,0
+26,Camila Rios,Santiago,1987-01-12,0,0
+403,Daniela García,Santiago,2010-06-30,2,109278
+563,Isidora Mendoza,La Serena,1996-03-05,2,30414
+93,Martina Torres,Valparaíso,2004-11-23,1,33020
+325,Fernanda García,Santiago,1964-04-06,1,35689
+253,Fernanda Fuentes,Santiago,1986-05-15,0,0
+242,Lucas Ramírez,Temuco,1995-10-22,1,58605
+102,Isidora Pérez,Santiago,2010-02-28,1,32120
+384,Daniela Torres,La Serena,1993-02-21,1,74176
+433,Tomás Contreras,Antofagasta,2000-07-01,2,527640
+304,Sofía Ramírez,Santiago,1993-01-04,3,3972783
+520,Joaquín Vargas,Santiago,1992-08-28,1,675210
+201,Pedro Rojas,Temuco,2001-07-07,1,22761
+431,Sofía Vargas,Temuco,2008-03-05,1,39988
+226,Sofía Torres,Santiago,1996-03-14,1,109854
+553,Daniela Mendoza,La Serena,1994-12-03,2,87078
+234,Valentina Flores,Santiago,1994-10-13,3,1106284
+344,Ana Fuentes,Valparaíso,1993-07-02,1,21870
+51,Camila Pérez,Chillán ,1988-03-10,2,337605
+195,Daniela Soto,Santiago,2003-04-04,1,27045
+415,Ana Fuentes,Rancagua,1982-08-22,1,65286
 598,Lucas Muñoz,Santiago,,1,32643
-593,Antonia Soto,Iquique,1991-04-26,0,0
-224,Sofía Pérez,Santiago,1998-04-16,1,61689
-150,Tomás Riquelme,Santiago,1989-11-18,5,264718
-204,Fernanda Mendoza,Puerto Montt,1974-10-25,1,95174
-68,Catalina García,Antofagasta,1987-06-06,2,155658
-385,Martina Díaz,Santiago,1990-05-27,2,93530
-399,María Ramírez,Santiago,1991-09-01,0,0
-541,Ana Rios,La Serena,1999-12-02,0,0
-50,Antonia Díaz,Concepción,2007-03-30,2,104163
-148,Pedro Silva,Valparaíso,2010-04-22,0,0
-56,Camila Vargas,Concepción,1991-09-03,3,1486925
-146,Antonia Hernández,Rancagua,1986-07-09,0,0
-240,Daniela Mendoza,Santiago,1984-12-09,1,91685
-586,Gabriel García,Santiago,2010-09-08,0,0
-393,Gabriel Rios,Concepción,2003-08-25,1,43249
-414,Gabriel Soto,Santiago,1988-03-25,3,1348246
-568,Camila Flores,Chillán ,1998-07-12,2,57435
-419,Vicente Flores,Santiago,1984-06-29,1,58605
-291,Mateo Hernández,Puerto Montt,1982-12-25,4,954225
-301,Camila López,Santiago,2008-09-16,5,1443140
-578,María Soto,Santiago,1983-09-05,1,1451083
-9,Vicente Pérez,Santiago,1994-08-21,2,3812240
-158,Camila López,Concepción,1999-07-09,4,157757
-290,Valentina Pérez,Valparaíso,1989-12-25,0,0
-315,Antonio Silva,La Serena,2001-07-12,3,279090
-324,Ignacio López,Santiago,2010-11-16,1,48332
-105,Lucas Muñoz,Iquique,1982-11-01,1,487890
-267,Antonio Torres,Santiago,1986-05-12,4,449097
-22,Ana Pérez,Santiago,1986-04-01,0,0
-313,Mateo Mendoza,Santiago,1990-02-17,0,0
-218,Fernanda González,Valparaíso,2009-09-17,0,0
-123,Ignacio Vargas,Santiago,1993-07-12,0,0
-252,Fernanda Rios,Chillán ,1973-03-04,2,556797
-584,Joaquín Flores,Valparaíso,1988-05-22,2,2968976
-576,Martina Contreras,Concepción,1992-11-15,1,115636
-214,Antonia Díaz,Santiago,1989-10-30,1,50925
-297,Gabriel Rojas,Santiago,1995-07-27,1,95271
-582,María Fuentes,Santiago,1992-04-17,2,700837
-249,Ignacio López,Santiago,1992-07-24,1,190835
-127,Ignacio Vargas,Santiago,2000-03-28,1,707138
-285,Camila Hernández,Rancagua,1995-06-27,0,0
-272,Tomás Muñoz,La Serena,1993-03-15,0,0
-282,Catalina Soto,Santiago,1992-11-02,2,118699
-233,Catalina Rios,Iquique,1963-06-15,0,0
-264,Daniela Silva,Concepción,1997-10-23,1,37341
-275,Mateo García,Santiago,2008-05-26,2,84785
-509,Mateo Fuentes,Santiago,1995-03-27,2,143389
-170,Camila Díaz,Santiago,2010-11-30,2,1161330
-40,Vicente Soto,Temuco,1971-07-11,2,254632
-514,Antonio Aravena,Santiago,2000-09-01,2,394630
-44,Camila Pérez,Antofagasta,1995-06-06,1,73094
-373,Antonia González,Santiago,1991-08-15,0,0
-278,Ignacio Soto,Rancagua,1982-04-02,1,1160259
-260,Daniela Martínez,Santiago,1999-11-28,0,0
-15,Camila Soto,Valparaíso,1988-04-28,4,3243802
-411,Antonia Silva,Santiago,1995-01-06,2,150339
-350,Sofía Torres,Santiago,1993-07-28,1,35769
-228,Sofía Vargas,Chillán ,1985-01-04,2,115982
-77,Antonio Martínez,Santiago,2000-10-11,1,139786
-355,Sofía Pérez,Santiago,1975-02-01,1,564156
-271,Sofía Pérez,Iquique,1994-05-26,1,1669075
-312,Catalina Soto,Chillán ,1982-06-20,3,140776
-357,Joaquín Torres,Santiago,1999-07-27,3,543738
-349,Antonio López,Santiago,1992-01-27,1,497271
-200,Gabriel Contreras,Valparaíso,2002-07-14,1,45458
-132,Mateo Silva,Rancagua,1983-04-01,0,0
-197,Tomás Riquelme,Santiago,1992-10-30,1,65286
-379,Catalina Rojas,Santiago,2000-07-08,1,22661
+593,Antonia Soto,Iquique,1991-01-25,0,0
+224,Sofía Pérez,Santiago,1998-03-13,1,61689
+150,Tomás Riquelme,Santiago,1989-03-08,5,264718
+204,Fernanda Mendoza,Puerto Montt,1974-07-05,1,95174
+68,Catalina García,Antofagasta,1987-08-25,2,155658
+385,Martina Díaz,Santiago,1990-12-08,2,93530
+399,María Ramírez,Santiago,1991-03-10,0,0
+541,Ana Rios,La Serena,1999-04-14,0,0
+50,Antonia Díaz,Concepción,2007-05-06,2,104163
+148,Pedro Silva,Valparaíso,2010-09-06,0,0
+56,Camila Vargas,Concepción,1991-11-10,3,1486925
+146,Antonia Hernández,Rancagua,1986-12-25,0,0
+240,Daniela Mendoza,Santiago,1984-12-06,1,91685
+586,Gabriel García,Santiago,2010-04-23,0,0
+393,Gabriel Rios,Concepción,2003-07-21,1,43249
+414,Gabriel Soto,Santiago,1988-06-27,3,1348246
+568,Camila Flores,Chillán ,1998-07-04,2,57435
+419,Vicente Flores,Santiago,1984-02-26,1,58605
+291,Mateo Hernández,Puerto Montt,1982-07-24,4,954225
+301,Camila López,Santiago,2008-10-12,5,1443140
+578,María Soto,Santiago,1983-05-18,1,1451083
+9,Vicente Pérez,Santiago,1994-02-01,2,3812240
+158,Camila López,Concepción,1999-10-08,4,157757
+290,Valentina Pérez,Valparaíso,1989-08-17,0,0
+315,Antonio Silva,La Serena,2001-10-10,3,279090
+324,Ignacio López,Santiago,2010-06-15,1,48332
+105,Lucas Muñoz,Iquique,1982-01-26,1,487890
+267,Antonio Torres,Santiago,1986-10-03,4,449097
+22,Ana Pérez,Santiago,1986-08-17,0,0
+313,Mateo Mendoza,Santiago,1990-10-03,0,0
+218,Fernanda González,Valparaíso,2009-03-21,0,0
+123,Ignacio Vargas,Santiago,1993-05-31,0,0
+252,Fernanda Rios,Chillán ,1973-09-15,2,556797
+584,Joaquín Flores,Valparaíso,1988-02-29,2,2968976
+576,Martina Contreras,Concepción,1992-06-06,1,115636
+214,Antonia Díaz,Santiago,1989-10-21,1,50925
+297,Gabriel Rojas,Santiago,1995-02-16,1,95271
+582,María Fuentes,Santiago,1992-10-24,2,700837
+249,Ignacio López,Santiago,1992-09-06,1,190835
+127,Ignacio Vargas,Santiago,2000-05-22,1,707138
+285,Camila Hernández,Rancagua,1995-08-18,0,0
+272,Tomás Muñoz,La Serena,1993-05-20,0,0
+282,Catalina Soto,Santiago,1992-10-17,2,118699
+233,Catalina Rios,Iquique,1963-01-13,0,0
+264,Daniela Silva,Concepción,1997-05-01,1,37341
+275,Mateo García,Santiago,2008-12-01,2,84785
+509,Mateo Fuentes,Santiago,1995-11-26,2,143389
+170,Camila Díaz,Santiago,2010-05-03,2,1161330
+40,Vicente Soto,Temuco,1971-01-02,2,254632
+514,Antonio Aravena,Santiago,2000-09-27,2,394630
+44,Camila Pérez,Antofagasta,1995-07-14,1,73094
+373,Antonia González,Santiago,1991-10-15,0,0
+278,Ignacio Soto,Rancagua,1982-12-06,1,1160259
+260,Daniela Martínez,Santiago,1999-10-29,0,0
+15,Camila Soto,Valparaíso,1988-10-06,4,3243802
+411,Antonia Silva,Santiago,1995-01-04,2,150339
+350,Sofía Torres,Santiago,1993-11-14,1,35769
+228,Sofía Vargas,Chillán ,1985-01-24,2,115982
+77,Antonio Martínez,Santiago,2000-09-03,1,139786
+355,Sofía Pérez,Santiago,1975-02-28,1,564156
+271,Sofía Pérez,Iquique,1994-09-24,1,1669075
+312,Catalina Soto,Chillán ,1982-09-16,3,140776
+357,Joaquín Torres,Santiago,1999-12-14,3,543738
+349,Antonio López,Santiago,1992-08-26,1,497271
+200,Gabriel Contreras,Valparaíso,2002-06-03,1,45458
+132,Mateo Silva,Rancagua,1983-04-23,0,0
+197,Tomás Riquelme,Santiago,1992-06-22,1,65286
+379,Catalina Rojas,Santiago,2000-01-26,1,22661
 527,Antonia Silva,Antofagasta,,2,155505
-352,Gabriel Ramírez,Concepción,1966-09-08,2,71374
-32,Pedro Silva,Santiago,1986-03-13,4,1354294
-594,Valentina Contreras,Iquique,1983-04-29,5,1491308
-470,María García,Santiago,1977-02-13,0,0
-277,Tomás Soto,Santiago,1985-08-08,1,109854
-165,Isidora Contreras,Santiago,1975-04-15,0,0
-188,Antonia Díaz,Santiago,1992-10-18,1,47045
-525,Sofía Pérez,La Serena,1987-02-23,3,60178
-337,Mateo García,Santiago,1970-08-26,0,0
-480,Daniela García,Santiago,2005-01-07,0,0
-225,Martina López,Santiago,1988-06-01,0,0
-577,Pedro Rojas,Santiago,1998-05-24,0,0
-295,Antonio Pérez,Antofagasta,1972-07-26,0,0
-72,Camila Fuentes,Santiago,1994-10-19,0,0
-579,Ana González,Santiago,1988-10-18,1,111811
-329,Ignacio García,Santiago,1989-08-09,0,0
-472,Joaquín López,Concepción,2001-04-13,1,31011
-12,Antonia Rios,Santiago,1995-07-09,0,0
-276,Mateo Silva,Santiago,1999-01-21,0,0
-53,Mateo Mendoza,Concepción,1980-10-27,2,140388
-457,Daniela Flores,Temuco,1999-08-25,0,0
-79,Martina Rios,Rancagua,1977-01-09,1,31395
-432,Camila Aravena,Santiago,1987-10-24,1,32068
-52,Isidora Riquelme,Antofagasta,1981-07-12,1,29933
-216,María Rios,Temuco,1974-01-20,1,35689
-404,Mateo Muñoz,Santiago,1979-03-10,0,0
-469,Antonia Pérez,Santiago,1985-04-11,2,29181
-191,Martina Riquelme,Antofagasta,1998-08-01,2,2208028
-8,Fernanda Soto,Chillán ,1992-04-12,0,0
-88,Ana Torres,Chillán ,1989-12-18,1,293678
-540,Joaquín Martínez,Santiago,1981-12-16,0,0
-246,Mateo López,Concepción,1990-11-25,1,47850
-340,Ignacio Silva,La Serena,1993-12-21,3,1217350
-422,Antonia Torres,Antofagasta,1968-02-23,29,9518199
-573,Gabriel Soto,Chillán ,1984-10-08,2,48264
-117,Martina Silva,Santiago,1984-10-27,5,4257791
-322,Martina Muñoz,Santiago,1998-11-01,0,0
-363,Valentina Fuentes,Santiago,1997-05-31,0,0
-168,Fernanda Aravena,Santiago,1996-08-21,1,35769
-382,Valentina Pérez,Santiago,2002-02-22,1,21434
-66,Ignacio López,Concepción,1991-04-23,2,132933
-13,Catalina Aravena,La Serena,1988-03-28,3,110621
-273,Daniela García,Santiago,2000-02-22,0,0
-256,Joaquín Soto,Santiago,1997-01-23,2,1783592
-526,Isidora González,Santiago,1979-12-10,0,0
-530,Ana Rios,Santiago,2010-02-16,0,0
-268,Lucas Rojas,Valparaíso,1993-09-23,1,167719
-495,Tomás Silva,Santiago,1973-01-24,2,680861
-289,Antonia Ramírez,Concepción,1981-02-03,2,135456
-37,Valentina Rios,Santiago,1983-08-09,0,0
-305,Pedro Díaz,Chillán ,1970-04-20,0,0
-545,Daniela Díaz,Santiago,1974-08-14,4,681479
-196,Tomás Muñoz,Chillán ,1981-11-10,0,0
-356,Fernanda Flores,Santiago,1998-07-10,0,0
-263,Mateo Rojas,La Serena,2006-05-28,0,0
-221,María Rojas,Iquique,2001-11-21,0,0
-238,Sofía Martínez,Antofagasta,1976-10-13,1,28861
-456,Fernanda Pérez,Temuco,1999-10-04,0,0
-334,Valentina Muñoz,Santiago,1997-02-12,0,0
-354,Isidora Torres,Santiago,1978-10-12,0,0
-502,Martina Martínez,Santiago,1995-06-16,3,140082
-551,Ignacio Martínez,Santiago,1987-03-15,1,95456
-326,Catalina Torres,Antofagasta,2008-12-01,4,482023
-85,Antonio Torres,Santiago,1998-09-06,1,2886199
-254,Tomás Rojas,Santiago,1999-10-17,1,29934
-416,Gabriel Soto,Santiago,2000-02-01,2,1190724
-270,Fernanda Torres,Santiago,2010-07-05,0,0
-558,Tomás Torres,Santiago,2002-02-14,1,87266
-265,Tomás Silva,Santiago,1982-02-14,0,0
-140,María Soto,Valparaíso,1990-09-22,1,33722
-331,Ignacio López,Antofagasta,1982-09-29,2,65055
-323,Catalina Flores,Santiago,2000-07-05,2,2695886
-581,Antonio Mendoza,Santiago,1970-09-27,1,249721
-454,Catalina Vargas,Santiago,1999-02-23,2,3303252
-580,Daniela Contreras,Santiago,1996-10-07,0,0
-425,Daniela Ramírez,Antofagasta,1986-09-25,1,84562
-353,Martina Ramírez,Valparaíso,1997-06-01,1,1654515
-202,Lucas Muñoz,Santiago,1989-02-27,2,1969797
-128,Ignacio Soto,Valparaíso,1973-12-06,1,60249
-477,Gabriel Mendoza,Santiago,1985-08-06,1,150947
-450,Tomás Díaz,Santiago,1996-11-24,1,39228
-157,Camila Pérez,Santiago,1976-07-31,1,2343521
-259,Daniela Mendoza,Antofagasta,1997-12-31,3,3621177
-421,Vicente Pérez,La Serena,1996-07-13,0,0
-58,Joaquín Riquelme,La Serena,1987-06-08,2,92183
-453,Pedro García,Santiago,1986-10-22,1,563764
-207,Lucas Aravena,Santiago,2010-12-18,1,487890
-391,Tomás Mendoza,Antofagasta,1986-06-06,1,76941
-424,Valentina Hernández,Santiago,1997-07-16,4,130513
-463,Lucas Fuentes,Concepción,2006-08-06,1,1564507
-522,Antonio Silva,Iquique,2006-07-21,2,2883092
-172,María Contreras,Antofagasta,2005-04-14,0,0
-499,Gabriel Riquelme,Valparaíso,2010-10-26,5,2513092
-258,María Rojas,Valparaíso,1982-02-05,0,0
-517,Ignacio Contreras,Antofagasta,1976-05-17,0,0
-113,Lucas Muñoz,Puerto Montt,1994-07-21,1,17151
-473,Isidora Vargas,Santiago,1992-04-04,0,0
-175,María Flores,Santiago,1992-01-03,3,288713
-333,Lucas Riquelme,Santiago,1978-03-02,3,102333
-535,Fernanda Rojas,Santiago,1987-05-13,0,0
-155,María Silva,Rancagua,1971-01-15,14,4827427
-466,Joaquín Pérez,Santiago,1985-01-11,0,0
-389,Gabriel Pérez,Santiago,1974-01-10,4,1151534
-31,Antonia Torres,Concepción,2009-04-17,1,27045
-6,Antonio Díaz,Puerto Montt,2003-12-22,2,351262
-21,Antonia López,Rancagua,1989-03-25,12,3079168
-510,Pedro Silva,Santiago,1994-05-15,2,126004
-46,Antonia López,Iquique,2001-12-28,0,0
-223,Tomás Martínez,Santiago,2005-02-09,0,0
-560,Vicente Fuentes,Santiago,2009-12-29,0,0
-194,Gabriel Contreras,Concepción,1991-02-19,0,0
-475,Joaquín Hernández,Santiago,1996-03-01,0,0
-116,Pedro Flores,Antofagasta,1982-05-08,1,343609
-566,Camila Mendoza,La Serena,1998-04-12,1,50925
-413,Gabriel González,Puerto Montt,1991-06-25,1,31509
-78,Gabriel Aravena,Puerto Montt,1984-07-10,1,82903
-507,Valentina Martínez,Santiago,1981-11-29,2,44531
-229,Martina López,Santiago,1997-04-02,1,36935
-420,Mateo Fuentes,Santiago,1991-10-11,1,658991
-163,Lucas Vargas,Santiago,1969-09-21,0,0
-543,Antonio Riquelme,Concepción,2010-06-26,0,0
+352,Gabriel Ramírez,Concepción,1966-12-09,2,71374
+32,Pedro Silva,Santiago,1986-04-14,4,1354294
+594,Valentina Contreras,Iquique,1983-02-18,5,1491308
+470,María García,Santiago,1977-04-02,0,0
+277,Tomás Soto,Santiago,1985-06-13,1,109854
+165,Isidora Contreras,Santiago,1975-12-19,0,0
+188,Antonia Díaz,Santiago,1992-03-12,1,47045
+525,Sofía Pérez,La Serena,1987-11-07,3,60178
+337,Mateo García,Santiago,1970-07-17,0,0
+480,Daniela García,Santiago,2005-03-14,0,0
+225,Martina López,Santiago,1988-08-27,0,0
+577,Pedro Rojas,Santiago,1998-10-12,0,0
+295,Antonio Pérez,Antofagasta,1972-06-01,0,0
+72,Camila Fuentes,Santiago,1994-09-16,0,0
+579,Ana González,Santiago,1988-11-27,1,111811
+329,Ignacio García,Santiago,1989-12-15,0,0
+472,Joaquín López,Concepción,2001-12-25,1,31011
+12,Antonia Rios,Santiago,1995-07-22,0,0
+276,Mateo Silva,Santiago,1999-01-18,0,0
+53,Mateo Mendoza,Concepción,1980-06-10,2,140388
+457,Daniela Flores,Temuco,1999-09-14,0,0
+79,Martina Rios,Rancagua,1977-09-25,1,31395
+432,Camila Aravena,Santiago,1987-07-18,1,32068
+52,Isidora Riquelme,Antofagasta,1981-04-07,1,29933
+216,María Rios,Temuco,1974-01-19,1,35689
+404,Mateo Muñoz,Santiago,1979-04-12,0,0
+469,Antonia Pérez,Santiago,1985-02-04,2,29181
+191,Martina Riquelme,Antofagasta,1998-08-21,2,2208028
+8,Fernanda Soto,Chillán ,1992-03-07,0,0
+88,Ana Torres,Chillán ,1989-12-31,1,293678
+540,Joaquín Martínez,Santiago,1981-09-18,0,0
+246,Mateo López,Concepción,1990-09-21,1,47850
+340,Ignacio Silva,La Serena,1993-08-03,3,1217350
+422,Antonia Torres,Antofagasta,1968-05-20,29,9518199
+573,Gabriel Soto,Chillán ,1984-04-29,2,48264
+117,Martina Silva,Santiago,1984-11-02,5,4257791
+322,Martina Muñoz,Santiago,1998-02-24,0,0
+363,Valentina Fuentes,Santiago,1997-07-04,0,0
+168,Fernanda Aravena,Santiago,1996-05-11,1,35769
+382,Valentina Pérez,Santiago,2002-09-07,1,21434
+66,Ignacio López,Concepción,1991-10-01,2,132933
+13,Catalina Aravena,La Serena,1988-10-24,3,110621
+273,Daniela García,Santiago,2000-06-22,0,0
+256,Joaquín Soto,Santiago,1997-05-13,2,1783592
+526,Isidora González,Santiago,1979-02-04,0,0
+530,Ana Rios,Santiago,2010-09-05,0,0
+268,Lucas Rojas,Valparaíso,1993-12-31,1,167719
+495,Tomás Silva,Santiago,1973-11-26,2,680861
+289,Antonia Ramírez,Concepción,1981-11-18,2,135456
+37,Valentina Rios,Santiago,1983-10-19,0,0
+305,Pedro Díaz,Chillán ,1970-01-13,0,0
+545,Daniela Díaz,Santiago,1974-05-20,4,681479
+196,Tomás Muñoz,Chillán ,1981-08-09,0,0
+356,Fernanda Flores,Santiago,1998-04-23,0,0
+263,Mateo Rojas,La Serena,2006-04-18,0,0
+221,María Rojas,Iquique,2001-08-24,0,0
+238,Sofía Martínez,Antofagasta,1976-05-31,1,28861
+456,Fernanda Pérez,Temuco,1999-06-25,0,0
+334,Valentina Muñoz,Santiago,1997-01-28,0,0
+354,Isidora Torres,Santiago,1978-03-17,0,0
+502,Martina Martínez,Santiago,1995-03-10,3,140082
+551,Ignacio Martínez,Santiago,1987-05-12,1,95456
+326,Catalina Torres,Antofagasta,2008-10-16,4,482023
+85,Antonio Torres,Santiago,1998-07-26,1,2886199
+254,Tomás Rojas,Santiago,1999-04-07,1,29934
+416,Gabriel Soto,Santiago,2000-06-03,2,1190724
+270,Fernanda Torres,Santiago,2010-11-12,0,0
+558,Tomás Torres,Santiago,2002-03-16,1,87266
+265,Tomás Silva,Santiago,1982-12-19,0,0
+140,María Soto,Valparaíso,1990-12-16,1,33722
+331,Ignacio López,Antofagasta,1982-08-28,2,65055
+323,Catalina Flores,Santiago,2000-08-30,2,2695886
+581,Antonio Mendoza,Santiago,1970-06-15,1,249721
+454,Catalina Vargas,Santiago,1999-04-25,2,3303252
+580,Daniela Contreras,Santiago,1996-07-07,0,0
+425,Daniela Ramírez,Antofagasta,1986-12-11,1,84562
+353,Martina Ramírez,Valparaíso,1997-11-11,1,1654515
+202,Lucas Muñoz,Santiago,1989-03-25,2,1969797
+128,Ignacio Soto,Valparaíso,1973-05-11,1,60249
+477,Gabriel Mendoza,Santiago,1985-07-18,1,150947
+450,Tomás Díaz,Santiago,1996-10-01,1,39228
+157,Camila Pérez,Santiago,1976-08-02,1,2343521
+259,Daniela Mendoza,Antofagasta,1997-10-09,3,3621177
+421,Vicente Pérez,La Serena,1996-11-09,0,0
+58,Joaquín Riquelme,La Serena,1987-12-24,2,92183
+453,Pedro García,Santiago,1986-03-25,1,563764
+207,Lucas Aravena,Santiago,2010-02-26,1,487890
+391,Tomás Mendoza,Antofagasta,1986-05-24,1,76941
+424,Valentina Hernández,Santiago,1997-02-21,4,130513
+463,Lucas Fuentes,Concepción,2006-11-18,1,1564507
+522,Antonio Silva,Iquique,2006-12-01,2,2883092
+172,María Contreras,Antofagasta,2005-02-20,0,0
+499,Gabriel Riquelme,Valparaíso,2010-07-11,5,2513092
+258,María Rojas,Valparaíso,1982-01-02,0,0
+517,Ignacio Contreras,Antofagasta,1976-07-15,0,0
+113,Lucas Muñoz,Puerto Montt,1994-10-17,1,17151
+473,Isidora Vargas,Santiago,1992-04-22,0,0
+175,María Flores,Santiago,1992-03-15,3,288713
+333,Lucas Riquelme,Santiago,1978-12-21,3,102333
+535,Fernanda Rojas,Santiago,1987-02-14,0,0
+155,María Silva,Rancagua,1971-08-05,14,4827427
+466,Joaquín Pérez,Santiago,1985-08-30,0,0
+389,Gabriel Pérez,Santiago,1974-10-04,4,1151534
+31,Antonia Torres,Concepción,2009-02-23,1,27045
+6,Antonio Díaz,Puerto Montt,2003-01-05,2,351262
+21,Antonia López,Rancagua,1989-11-05,12,3079168
+510,Pedro Silva,Santiago,1994-02-23,2,126004
+46,Antonia López,Iquique,2001-01-04,0,0
+223,Tomás Martínez,Santiago,2005-01-08,0,0
+560,Vicente Fuentes,Santiago,2009-09-19,0,0
+194,Gabriel Contreras,Concepción,1991-04-15,0,0
+475,Joaquín Hernández,Santiago,1996-12-07,0,0
+116,Pedro Flores,Antofagasta,1982-07-31,1,343609
+566,Camila Mendoza,La Serena,1998-09-18,1,50925
+413,Gabriel González,Puerto Montt,1991-04-16,1,31509
+78,Gabriel Aravena,Puerto Montt,1984-03-17,1,82903
+507,Valentina Martínez,Santiago,1981-08-27,2,44531
+229,Martina López,Santiago,1997-07-17,1,36935
+420,Mateo Fuentes,Santiago,1991-02-15,1,658991
+163,Lucas Vargas,Santiago,1969-06-21,0,0
+543,Antonio Riquelme,Concepción,2010-04-04,0,0
 556,Joaquín Pérez,Valparaíso,,1,92217
-464,María García,Concepción,1987-06-01,1,19262
-30,Ana Silva,Santiago,1994-07-24,1,581843
-490,Ignacio Soto,Antofagasta,2010-06-25,1,18054
-19,Gabriel Aravena,Rancagua,1991-04-30,1,82995
-100,Tomás Rios,Santiago,1999-06-30,2,130991
-442,Camila Flores,Antofagasta,1997-07-08,1,1160259
-300,Lucas Contreras,Puerto Montt,2001-09-02,2,1974480
-160,Martina González,Rancagua,2004-08-07,0,0
-335,Daniela Ramírez,Santiago,1992-06-12,1,286680
-523,Isidora Aravena,Santiago,2007-03-30,2,1584204
-561,María Martínez,Antofagasta,1982-11-28,1,90507
-597,Gabriel Rios,Santiago,1990-07-10,1,22761
-448,Ignacio Contreras,Santiago,1997-02-03,0,0
-401,Daniela Aravena,Antofagasta,1990-03-06,1,35497
-134,Ignacio Ramírez,Valparaíso,1981-02-20,1,86525
-179,Sofía Aravena,Santiago,1995-11-01,1,105926
-139,Valentina Vargas,Rancagua,1980-07-26,0,0
-516,Martina Fuentes,Concepción,1959-06-23,2,70258
-97,Antonio Riquelme,Concepción,1988-08-22,0,0
-86,María Pérez,Santiago,1984-12-08,4,541867
-24,Gabriel Rojas,Santiago,1996-07-02,0,0
-396,Antonia Rojas,Concepción,1989-08-14,4,1065836
-405,Mateo Vargas,Chillán ,1999-02-19,2,1407263
-292,Ana García,Concepción,1971-04-14,2,55681
-141,Joaquín Hernández,Santiago,1999-02-06,0,0
-144,Antonio Vargas,Antofagasta,1983-11-11,1,61689
-536,Sofía Riquelme,Santiago,1998-09-13,2,1497864
-380,Catalina Muñoz,Santiago,1990-09-22,0,0
-519,Pedro González,Santiago,2002-06-15,0,0
-552,Gabriel Ramírez,Chillán ,2004-10-15,4,2014825
-489,Martina Mendoza,Santiago,1975-08-22,3,723339
-468,Isidora Hernández,Santiago,1979-11-10,3,438528
+464,María García,Concepción,1987-12-29,1,19262
+30,Ana Silva,Santiago,1994-11-10,1,581843
+490,Ignacio Soto,Antofagasta,2010-09-22,1,18054
+19,Gabriel Aravena,Rancagua,1991-10-16,1,82995
+100,Tomás Rios,Santiago,1999-05-03,2,130991
+442,Camila Flores,Antofagasta,1997-05-18,1,1160259
+300,Lucas Contreras,Puerto Montt,2001-05-22,2,1974480
+160,Martina González,Rancagua,2004-04-11,0,0
+335,Daniela Ramírez,Santiago,1992-03-13,1,286680
+523,Isidora Aravena,Santiago,2007-09-10,2,1584204
+561,María Martínez,Antofagasta,1982-05-28,1,90507
+597,Gabriel Rios,Santiago,1990-05-16,1,22761
+448,Ignacio Contreras,Santiago,1997-03-19,0,0
+401,Daniela Aravena,Antofagasta,1990-10-30,1,35497
+134,Ignacio Ramírez,Valparaíso,1981-08-17,1,86525
+179,Sofía Aravena,Santiago,1995-03-19,1,105926
+139,Valentina Vargas,Rancagua,1980-07-19,0,0
+516,Martina Fuentes,Concepción,1959-04-15,2,70258
+97,Antonio Riquelme,Concepción,1988-11-06,0,0
+86,María Pérez,Santiago,1984-03-23,4,541867
+24,Gabriel Rojas,Santiago,1996-12-11,0,0
+396,Antonia Rojas,Concepción,1989-04-16,4,1065836
+405,Mateo Vargas,Chillán ,1999-10-24,2,1407263
+292,Ana García,Concepción,1971-11-02,2,55681
+141,Joaquín Hernández,Santiago,1999-01-14,0,0
+144,Antonio Vargas,Antofagasta,1983-09-07,1,61689
+536,Sofía Riquelme,Santiago,1998-11-22,2,1497864
+380,Catalina Muñoz,Santiago,1990-10-10,0,0
+519,Pedro González,Santiago,2002-07-30,0,0
+552,Gabriel Ramírez,Chillán ,2004-05-26,4,2014825
+489,Martina Mendoza,Santiago,1975-09-17,3,723339
+468,Isidora Hernández,Santiago,1979-04-07,3,438528
 107,Valentina Soto,Rancagua,1989-11-08,0,0
-550,Mateo Ramírez,Santiago,1996-07-22,2,91955
-360,Gabriel Díaz,Rancagua,1993-01-18,0,0
-138,Sofía López,La Serena,2005-12-07,0,0
-429,Daniela Aravena,Valparaíso,1990-12-08,1,76941
-187,Joaquín Mendoza,Valparaíso,1975-07-15,0,0
+550,Mateo Ramírez,Santiago,1996-05-11,2,91955
+360,Gabriel Díaz,Rancagua,1993-03-11,0,0
+138,Sofía López,La Serena,2005-12-17,0,0
+429,Daniela Aravena,Valparaíso,1990-02-23,1,76941
+187,Joaquín Mendoza,Valparaíso,1975-12-08,0,0
 554,Ignacio Muñoz,Valparaíso,,0,0
-451,Valentina Silva,Concepción,1963-01-19,1,500495
-198,Catalina Vargas,Valparaíso,1989-05-21,0,0
-388,Ana López,Rancagua,1973-11-13,0,0
-114,Camila López,Santiago,1985-04-17,0,0
-247,Valentina Mendoza,Santiago,2005-07-09,0,0
-361,Camila Riquelme,Concepción,2008-02-29,1,7270
-131,Sofía Mendoza,Santiago,1974-03-17,2,332595
-445,Fernanda Muñoz,Puerto Montt,1977-03-06,2,123289
-43,Ana Silva,Antofagasta,2003-04-05,4,377958
-5,Pedro Díaz,Santiago,1967-03-20,1,31509
-133,Pedro González,Santiago,1994-10-20,0,0
-479,Camila Vargas,Concepción,1952-04-05,0,0
-27,María Martínez,Concepción,1997-07-29,0,0
-565,Valentina Aravena,Santiago,1980-05-01,2,128060
-28,Isidora Silva,Santiago,1991-12-28,0,0
-316,Mateo López,La Serena,2002-10-19,0,0
-459,Ana Mendoza,La Serena,1984-09-24,1,1160259
-294,Catalina Martínez,Santiago,2003-07-11,1,110245
-318,Isidora Torres,Valparaíso,2006-07-12,27,10140867
-549,Mateo Riquelme,Chillán ,1995-03-11,1,57237
-48,Mateo Torres,Santiago,2010-07-25,1,91685
-210,Camila Rios,Concepción,2010-05-09,1,31369
-443,Fernanda González,Santiago,1998-11-02,1,1350026
-575,Mateo González,Temuco,1991-08-30,0,0
-310,Tomás Silva,Temuco,1983-04-26,1,17665
-181,Vicente Flores,Valparaíso,1977-05-15,3,500837
-169,Lucas Ramírez,Santiago,1995-02-16,2,114331
-206,Daniela Rojas,Santiago,1972-11-06,2,773674
-76,Isidora Rios,Santiago,1988-09-20,2,177403
-590,Ignacio Riquelme,Santiago,1994-01-06,1,437133
-25,Camila Díaz,Antofagasta,1980-09-26,3,1720802
-390,Valentina Díaz,Chillán ,1976-05-28,3,1276495
-303,Antonio Riquelme,Rancagua,1992-12-07,2,99210
-377,Isidora Pérez,Santiago,1998-04-01,1,22761
-437,Antonio Flores,Santiago,1987-07-16,1,61689
-492,Ana Riquelme,Temuco,1993-04-27,2,1294471
-500,Gabriel Mendoza,Santiago,2009-11-29,3,164073
-159,Mateo Torres,Puerto Montt,1993-04-13,2,1487831
-481,Sofía Silva,Temuco,1993-06-28,2,90248
-343,Isidora Ramírez,Iquique,1991-11-29,0,0
-407,Ana Martínez,La Serena,1987-04-08,1,463496
-423,Vicente García,Santiago,1977-03-23,0,0
-546,Pedro Hernández,Valparaíso,2003-10-18,1,95174
-476,Daniela González,La Serena,1990-03-20,3,98353
-89,María Rios,Valparaíso,1982-01-31,2,54379
-232,Fernanda Díaz,Concepción,2010-03-21,4,1972719
-298,Catalina González,Temuco,1976-08-12,0,0
-251,Daniela Fuentes,Santiago,1989-06-19,0,0
-4,Mateo Rojas,Santiago,1958-06-17,2,99379
-430,Ana Contreras,Santiago,1981-02-14,3,410094
-135,María Mendoza,Santiago,2002-08-10,0,0
-3,Tomás Torres,La Serena,1990-06-15,0,0
-435,Pedro Rojas,Valparaíso,1995-08-25,1,374968
-370,Isidora Riquelme,Valparaíso,1986-05-25,3,263319
-71,Pedro González,Santiago,2010-09-15,0,0
-231,Mateo Riquelme,Santiago,1988-06-07,1,48332
-471,Fernanda Mendoza,Concepción,1995-04-10,2,326698
+451,Valentina Silva,Concepción,1963-12-07,1,500495
+198,Catalina Vargas,Valparaíso,1989-02-22,0,0
+388,Ana López,Rancagua,1973-05-31,0,0
+114,Camila López,Santiago,1985-01-10,0,0
+247,Valentina Mendoza,Santiago,2005-03-03,0,0
+361,Camila Riquelme,Concepción,2008-05-13,1,7270
+131,Sofía Mendoza,Santiago,1974-03-09,2,332595
+445,Fernanda Muñoz,Puerto Montt,1977-02-11,2,123289
+43,Ana Silva,Antofagasta,2003-01-10,4,377958
+5,Pedro Díaz,Santiago,1967-01-16,1,31509
+133,Pedro González,Santiago,1994-09-22,0,0
+479,Camila Vargas,Concepción,1952-12-12,0,0
+27,María Martínez,Concepción,1997-01-04,0,0
+565,Valentina Aravena,Santiago,1980-10-13,2,128060
+28,Isidora Silva,Santiago,1991-04-24,0,0
+316,Mateo López,La Serena,2002-07-30,0,0
+459,Ana Mendoza,La Serena,1984-08-09,1,1160259
+294,Catalina Martínez,Santiago,2003-06-18,1,110245
+318,Isidora Torres,Valparaíso,2006-07-01,27,10140867
+549,Mateo Riquelme,Chillán ,1995-05-15,1,57237
+48,Mateo Torres,Santiago,2010-02-04,1,91685
+210,Camila Rios,Concepción,2010-05-13,1,31369
+443,Fernanda González,Santiago,1998-04-26,1,1350026
+575,Mateo González,Temuco,1991-05-30,0,0
+310,Tomás Silva,Temuco,1983-07-08,1,17665
+181,Vicente Flores,Valparaíso,1977-09-26,3,500837
+169,Lucas Ramírez,Santiago,1995-03-06,2,114331
+206,Daniela Rojas,Santiago,1972-06-13,2,773674
+76,Isidora Rios,Santiago,1988-10-25,2,177403
+590,Ignacio Riquelme,Santiago,1994-01-15,1,437133
+25,Camila Díaz,Antofagasta,1980-06-07,3,1720802
+390,Valentina Díaz,Chillán ,1976-01-23,3,1276495
+303,Antonio Riquelme,Rancagua,1992-03-18,2,99210
+377,Isidora Pérez,Santiago,1998-03-25,1,22761
+437,Antonio Flores,Santiago,1987-01-02,1,61689
+492,Ana Riquelme,Temuco,1993-07-28,2,1294471
+500,Gabriel Mendoza,Santiago,2009-05-25,3,164073
+159,Mateo Torres,Puerto Montt,1993-11-08,2,1487831
+481,Sofía Silva,Temuco,1993-10-01,2,90248
+343,Isidora Ramírez,Iquique,1991-08-02,0,0
+407,Ana Martínez,La Serena,1987-05-13,1,463496
+423,Vicente García,Santiago,1977-09-19,0,0
+546,Pedro Hernández,Valparaíso,2003-12-17,1,95174
+476,Daniela González,La Serena,1990-04-15,3,98353
+89,María Rios,Valparaíso,1982-02-14,2,54379
+232,Fernanda Díaz,Concepción,2010-03-13,4,1972719
+298,Catalina González,Temuco,1976-10-11,0,0
+251,Daniela Fuentes,Santiago,1989-07-08,0,0
+4,Mateo Rojas,Santiago,1958-04-16,2,99379
+430,Ana Contreras,Santiago,1981-06-21,3,410094
+135,María Mendoza,Santiago,2002-01-28,0,0
+3,Tomás Torres,La Serena,1990-08-05,0,0
+435,Pedro Rojas,Valparaíso,1995-09-11,1,374968
+370,Isidora Riquelme,Valparaíso,1986-12-29,3,263319
+71,Pedro González,Santiago,2010-07-21,0,0
+231,Mateo Riquelme,Santiago,1988-12-23,1,48332
+471,Fernanda Mendoza,Concepción,1995-12-23,2,326698
 358,Daniela Fuentes,Santiago,,0,0
-212,Joaquín Flores,Concepción,1986-12-23,2,38173
-193,Vicente González,Santiago,1990-05-23,0,0
-402,Ignacio Soto,Valparaíso,1967-04-19,0,0
-447,Valentina Fuentes,La Serena,1988-05-27,0,0
-241,Vicente Pérez,Santiago,1982-10-19,1,7162
-23,Antonia García,Puerto Montt,1999-07-28,3,49307
-487,Sofía Rojas,Valparaíso,2000-11-10,2,1405298
-60,Daniela Ramírez,Rancagua,1972-02-07,0,0
-599,Valentina Soto,Rancagua,1998-08-15,0,0
-284,Martina Vargas,Santiago,2006-10-26,2,73747
-439,Pedro Fuentes,La Serena,2006-12-21,1,594182
-17,Sofía Contreras,Santiago,2002-12-11,1,2109169
-513,Ana Aravena,Santiago,2005-02-21,0,0
-280,Catalina Ramírez,Rancagua,2001-12-17,3,1818959
-311,Daniela Rios,Rancagua,1976-04-03,0,0
-367,Valentina Rios,Santiago,1994-03-01,1,487890
-99,Antonia Silva,Antofagasta,1985-03-20,2,719240
-557,Antonia Torres,Valparaíso,1966-07-26,2,385900
-595,Mateo Flores,Concepción,2000-10-03,0,0
-488,Martina Riquelme,Antofagasta,1999-03-20,1,374448
-266,María Hernández,Concepción,2010-04-15,2,2262722
-205,Joaquín Soto,Concepción,1978-09-30,1,76941
-483,Joaquín Muñoz,Rancagua,1988-06-08,2,3896023
-309,Martina Vargas,Temuco,2010-06-23,0,0
-237,Ignacio Rojas,Concepción,1976-03-04,0,0
-156,Catalina Ramírez,Iquique,1980-09-12,2,1676408
-182,Camila González,Santiago,2010-03-05,1,108820
-147,Tomás Aravena,Puerto Montt,2007-08-06,2,374329
-314,Camila Torres,Valparaíso,1982-08-19,4,301422
-75,Mateo Mendoza,Santiago,2005-10-05,0,0
-287,Fernanda Soto,Santiago,1996-06-30,2,129152
-555,Tomás Silva,Antofagasta,1985-01-05,1,272346
-34,Sofía García,Santiago,1989-07-15,2,378981
-328,Lucas López,Santiago,1999-10-18,0,0
-587,Tomás Riquelme,La Serena,1984-04-08,1,286680
-486,Antonia Riquelme,Valparaíso,1976-03-06,3,796511
-59,Daniela Torres,Santiago,1996-02-28,1,27045
-307,Camila Riquelme,Santiago,1958-02-28,1,9667
-57,Pedro Torres,Rancagua,1983-09-26,0,0
-347,Vicente Muñoz,Santiago,1986-03-29,2,210907
-136,Antonio Silva,Valparaíso,2006-03-26,3,1326297
-418,Sofía González,Antofagasta,2003-05-19,1,81631
-269,Catalina Muñoz,Santiago,2002-04-21,1,85657
-84,Catalina Díaz,Santiago,1980-08-12,2,107294
-515,Joaquín Contreras,Santiago,2004-06-09,3,3415124
-374,Joaquín Flores,Valparaíso,1975-10-29,2,1224018
-408,Mateo Fuentes,Santiago,1979-06-12,0,0
-190,Gabriel López,Antofagasta,1999-06-04,1,24879
-386,Catalina Martínez,Santiago,1992-01-05,0,0
-441,Camila Silva,Valparaíso,1972-08-19,0,0
-512,Antonio Soto,Santiago,2001-04-11,1,111811
-427,Fernanda Hernández,Santiago,2010-08-08,1,76941
-143,Camila Contreras,Santiago,1999-06-19,1,1193524
-130,Ignacio Díaz,Concepción,1988-02-25,0,0
-74,Valentina Soto,La Serena,1978-06-17,0,0
-178,Fernanda López,Valparaíso,1984-04-20,0,0
-125,Lucas Riquelme,Antofagasta,1959-04-11,1,398008
-511,Sofía Ramírez,Santiago,1976-01-17,3,77498
-446,Catalina Aravena,Santiago,1985-09-24,20,5689373
-548,Daniela González,Santiago,1974-08-22,3,382393
-153,Isidora Silva,Santiago,1974-11-30,0,0
-528,Isidora Rios,Iquique,1986-08-26,2,752115
-409,Valentina Contreras,Antofagasta,1979-01-01,0,0
-531,Ana Ramírez,Rancagua,1981-12-23,1,45832
-338,Martina Rios,Santiago,1986-03-27,1,626405
-121,Joaquín Riquelme,Concepción,1989-07-05,1,31508
-478,Fernanda García,Santiago,2003-10-10,2,71266
-257,Gabriel González,Concepción,1991-02-08,0,0
-120,Mateo Riquelme,Santiago,2001-05-13,1,62022
-248,Isidora López,Santiago,1981-12-25,4,694758
+212,Joaquín Flores,Concepción,1986-05-25,2,38173
+193,Vicente González,Santiago,1990-04-10,0,0
+402,Ignacio Soto,Valparaíso,1967-01-18,0,0
+447,Valentina Fuentes,La Serena,1988-10-08,0,0
+241,Vicente Pérez,Santiago,1982-10-06,1,7162
+23,Antonia García,Puerto Montt,1999-04-14,3,49307
+487,Sofía Rojas,Valparaíso,2000-11-28,2,1405298
+60,Daniela Ramírez,Rancagua,1972-08-13,0,0
+599,Valentina Soto,Rancagua,1998-12-27,0,0
+284,Martina Vargas,Santiago,2006-02-18,2,73747
+439,Pedro Fuentes,La Serena,2006-05-05,1,594182
+17,Sofía Contreras,Santiago,2002-12-30,1,2109169
+513,Ana Aravena,Santiago,2005-10-02,0,0
+280,Catalina Ramírez,Rancagua,2001-05-08,3,1818959
+311,Daniela Rios,Rancagua,1976-05-30,0,0
+367,Valentina Rios,Santiago,1994-06-09,1,487890
+99,Antonia Silva,Antofagasta,1985-04-19,2,719240
+557,Antonia Torres,Valparaíso,1966-02-19,2,385900
+595,Mateo Flores,Concepción,2000-08-14,0,0
+488,Martina Riquelme,Antofagasta,1999-01-05,1,374448
+266,María Hernández,Concepción,2010-10-16,2,2262722
+205,Joaquín Soto,Concepción,1978-10-21,1,76941
+483,Joaquín Muñoz,Rancagua,1988-01-13,2,3896023
+309,Martina Vargas,Temuco,2010-10-09,0,0
+237,Ignacio Rojas,Concepción,1976-05-20,0,0
+156,Catalina Ramírez,Iquique,1980-04-29,2,1676408
+182,Camila González,Santiago,2010-09-19,1,108820
+147,Tomás Aravena,Puerto Montt,2007-06-14,2,374329
+314,Camila Torres,Valparaíso,1982-11-07,4,301422
+75,Mateo Mendoza,Santiago,2005-01-03,0,0
+287,Fernanda Soto,Santiago,1996-03-21,2,129152
+555,Tomás Silva,Antofagasta,1985-03-17,1,272346
+34,Sofía García,Santiago,1989-07-21,2,378981
+328,Lucas López,Santiago,1999-12-02,0,0
+587,Tomás Riquelme,La Serena,1984-07-24,1,286680
+486,Antonia Riquelme,Valparaíso,1976-06-03,3,796511
+59,Daniela Torres,Santiago,1996-11-08,1,27045
+307,Camila Riquelme,Santiago,1958-10-25,1,9667
+57,Pedro Torres,Rancagua,1983-09-07,0,0
+347,Vicente Muñoz,Santiago,1986-07-02,2,210907
+136,Antonio Silva,Valparaíso,2006-09-10,3,1326297
+418,Sofía González,Antofagasta,2003-02-08,1,81631
+269,Catalina Muñoz,Santiago,2002-12-19,1,85657
+84,Catalina Díaz,Santiago,1980-06-16,2,107294
+515,Joaquín Contreras,Santiago,2004-11-27,3,3415124
+374,Joaquín Flores,Valparaíso,1975-03-09,2,1224018
+408,Mateo Fuentes,Santiago,1979-02-23,0,0
+190,Gabriel López,Antofagasta,1999-12-21,1,24879
+386,Catalina Martínez,Santiago,1992-09-04,0,0
+441,Camila Silva,Valparaíso,1972-07-12,0,0
+512,Antonio Soto,Santiago,2001-03-10,1,111811
+427,Fernanda Hernández,Santiago,2010-06-29,1,76941
+143,Camila Contreras,Santiago,1999-03-16,1,1193524
+130,Ignacio Díaz,Concepción,1988-02-18,0,0
+74,Valentina Soto,La Serena,1978-03-24,0,0
+178,Fernanda López,Valparaíso,1984-03-24,0,0
+125,Lucas Riquelme,Antofagasta,1959-01-14,1,398008
+511,Sofía Ramírez,Santiago,1976-11-02,3,77498
+446,Catalina Aravena,Santiago,1985-08-16,20,5689373
+548,Daniela González,Santiago,1974-04-27,3,382393
+153,Isidora Silva,Santiago,1974-12-29,0,0
+528,Isidora Rios,Iquique,1986-08-11,2,752115
+409,Valentina Contreras,Antofagasta,1979-03-11,0,0
+531,Ana Ramírez,Rancagua,1981-11-21,1,45832
+338,Martina Rios,Santiago,1986-04-07,1,626405
+121,Joaquín Riquelme,Concepción,1989-12-04,1,31508
+478,Fernanda García,Santiago,2003-11-20,2,71266
+257,Gabriel González,Concepción,1991-11-23,0,0
+120,Mateo Riquelme,Santiago,2001-05-22,1,62022
+248,Isidora López,Santiago,1981-02-18,4,694758
 569,Vicente García,Chillán ,,1,32068
-104,Joaquín Díaz,Rancagua,2004-07-06,1,84562
+104,Joaquín Díaz,Rancagua,2004-08-16,1,84562
 215,Antonio Torres,Santiago,,0,0
-64,Fernanda Rios,Santiago,1994-09-02,4,627516
-213,Lucas Silva,Santiago,2008-04-14,1,27643
-236,Vicente Rojas,Antofagasta,1999-06-26,3,2886174
-262,Martina Pérez,Santiago,1989-04-06,0,0
-164,Ignacio Torres,Santiago,1972-10-09,0,0
-154,Martina González,Santiago,1991-01-24,0,0
-438,María Muñoz,Santiago,1984-08-22,0,0
-112,Camila Vargas,Santiago,1974-05-02,2,76495
-38,Mateo García,Santiago,1977-05-04,2,1914611
-375,Sofía Torres,Antofagasta,1989-01-19,0,0
-460,Camila Soto,Temuco,1983-10-02,1,12575
-320,Catalina García,Santiago,1993-08-22,1,47045
-398,María Ramírez,Santiago,1995-04-09,0,0
-244,Lucas Riquelme,Santiago,1991-03-24,0,0
-108,María Hernández,Santiago,1989-01-09,1,45458
-371,Joaquín Ramírez,Santiago,1979-08-15,0,0
-506,Pedro Hernández,Temuco,1983-11-17,0,0
-583,Antonia Rojas,Santiago,1980-08-19,0,0
-482,Daniela Flores,Santiago,2010-04-24,0,0
-65,Martina Hernández,Chillán ,1996-06-01,2,587596
-484,Daniela Vargas,Santiago,1993-10-02,0,0
-82,Vicente Hernández,Santiago,2007-01-17,2,507493
-222,Martina Flores,Concepción,2010-05-31,0,0
-410,Martina Pérez,Valparaíso,1986-05-29,1,7653
-440,Daniela Soto,Santiago,2026-05-25,2,194195
-444,Joaquín Martínez,Santiago,2004-03-27,1,58605
-54,Joaquín López,Concepción,1990-10-25,3,180204
-559,Isidora Fuentes,Antofagasta,1969-04-27,1,7270
-70,Camila Riquelme,Santiago,1993-05-06,2,599454
-452,Valentina Silva,Valparaíso,1994-01-30,0,0
-449,Catalina Fuentes,Santiago,2006-03-06,3,1993218
-465,Fernanda Pérez,Santiago,1993-05-29,4,1107029
-462,Martina Ramírez,Santiago,1981-10-30,1,3395528
-283,Sofía Silva,Valparaíso,1979-06-06,0,0
-496,Ignacio Rojas,Iquique,1995-06-22,0,0
+64,Fernanda Rios,Santiago,1994-03-06,4,627516
+213,Lucas Silva,Santiago,2008-04-05,1,27643
+236,Vicente Rojas,Antofagasta,1999-10-18,3,2886174
+262,Martina Pérez,Santiago,1989-09-06,0,0
+164,Ignacio Torres,Santiago,1972-12-15,0,0
+154,Martina González,Santiago,1991-10-10,0,0
+438,María Muñoz,Santiago,1984-01-21,0,0
+112,Camila Vargas,Santiago,1974-05-22,2,76495
+38,Mateo García,Santiago,1977-03-22,2,1914611
+375,Sofía Torres,Antofagasta,1989-08-16,0,0
+460,Camila Soto,Temuco,1983-11-12,1,12575
+320,Catalina García,Santiago,1993-12-21,1,47045
+398,María Ramírez,Santiago,1995-12-03,0,0
+244,Lucas Riquelme,Santiago,1991-08-24,0,0
+108,María Hernández,Santiago,1989-08-04,1,45458
+371,Joaquín Ramírez,Santiago,1979-01-12,0,0
+506,Pedro Hernández,Temuco,1983-01-04,0,0
+583,Antonia Rojas,Santiago,1980-03-27,0,0
+482,Daniela Flores,Santiago,2010-09-04,0,0
+65,Martina Hernández,Chillán ,1996-12-30,2,587596
+484,Daniela Vargas,Santiago,1993-11-10,0,0
+82,Vicente Hernández,Santiago,2007-12-08,2,507493
+222,Martina Flores,Concepción,2010-10-08,0,0
+410,Martina Pérez,Valparaíso,1986-01-14,1,7653
+440,Daniela Soto,Santiago,2026-09-27,2,194195
+444,Joaquín Martínez,Santiago,2004-08-25,1,58605
+54,Joaquín López,Concepción,1990-11-03,3,180204
+559,Isidora Fuentes,Antofagasta,1969-12-25,1,7270
+70,Camila Riquelme,Santiago,1993-07-06,2,599454
+452,Valentina Silva,Valparaíso,1994-09-28,0,0
+449,Catalina Fuentes,Santiago,2006-08-19,3,1993218
+465,Fernanda Pérez,Santiago,1993-11-10,4,1107029
+462,Martina Ramírez,Santiago,1981-06-15,1,3395528
+283,Sofía Silva,Valparaíso,1979-04-05,0,0
+496,Ignacio Rojas,Iquique,1995-10-16,0,0
